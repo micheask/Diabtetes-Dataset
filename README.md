@@ -1,4 +1,4 @@
-# Diabtetes-ETL Pipeline-Dataset
+# Diabetes-ETL Pipeline-Dataset
 ETL pipeline analyzing diabetes patient records and CDC state-level prevalence data.  Created by Michas Kidane and Amon Bayu
 
 Datasets
